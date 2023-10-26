@@ -1,2 +1,3 @@
 # publicDocs
-Random public docs not part of distinct projects
+
+Random public docs not part of distinct projects.
